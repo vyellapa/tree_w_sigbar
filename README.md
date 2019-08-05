@@ -1,4 +1,4 @@
-# tree_w_sigbar
-
-![alt_text](https://github.com/vyellapa/sv_fig3/blob/master/figa3a_myc.png)
+# Pylogenetic Tree with mutational signature barchart
+Did I say illustrator?
+![alt_text](https://github.com/vyellapa/tree_w_sigbar/blob/master/tree.png)
 
